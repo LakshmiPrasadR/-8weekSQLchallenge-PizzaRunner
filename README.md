@@ -32,11 +32,12 @@ There are some known data issues with few tables. Data cleaning was performed an
 - In the distance column, there are null values. It contains unit - km. The 'km' must also be stripped
 - In the duration column, there are null values. The 'minutes', 'mins' 'minute' must be stripped
 - In the cancellation column, there are blank spaces and null values.
-Click here to view the data cleaning peformed.
+
+Click [here](https://github.com/LakshmiPrasadR/8weekSQLchallenge-PizzaRunner/blob/main/Data-Clean.sql) to view the data cleaning peformed.
 
 # Case Study Solutions
-- A. Pizza Metrics
-- B. Runner and Customer Experience
-- C. Ingredient Optimisation
-- D. Pricing and Ratings
-- E. Bonus Questions
+- [A. Pizza Metrics](https://github.com/LakshmiPrasadR/8weekSQLchallenge-PizzaRunner/blob/main/Topic-1-%20Pizza%20Metrics.sql)
+- [B. Customer and Runner metrics](https://github.com/LakshmiPrasadR/8weekSQLchallenge-PizzaRunner/blob/main/Topic%20-2-%20Customer%20and%20Runner%20metrics.sql)
+- [C. Ingredient Optimisation](https://github.com/LakshmiPrasadR/8weekSQLchallenge-PizzaRunner/blob/main/Topic-4-%20Ingredient%20Optimization.sql)
+- [D. Pricing and Ratings](https://github.com/LakshmiPrasadR/8weekSQLchallenge-PizzaRunner/blob/main/Topic%20-3-%20Pricing%20and%20Ratings.sql)
+- [E. Bonus Questions](https://github.com/LakshmiPrasadR/8weekSQLchallenge-PizzaRunner/blob/main/Bonus%20Question.sql)
