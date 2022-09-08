@@ -18,6 +18,9 @@ Key datasets for this case study
 - **pizza_recipes** : Each pizza_id has a standard set of toppings which are used as part of the pizza recipe.
 - **pizza_toppings** : The table contains all of the topping_name values with their corresponding topping_id value
 
+# Entity Relationship Diagram
+![alt text](https://github.com/LakshmiPrasadR/8weekSQLchallenge-PizzaRunner/blob/main/ERD.jpg)
+
 # Data Clean
 There are some known data issues with few tables. Data cleaning was performed and saved in temporary tables before attempting the case study.
 
